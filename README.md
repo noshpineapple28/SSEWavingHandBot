@@ -15,4 +15,7 @@ The current design for the project is to have a stepper motor that periodically 
 ## Our Developers
 
 ### Nat Manoucheri
-Responsible for wiring the Motor and Driver to the arduino
+Responsible for wiring the Motor and Driver to the Arduino
+
+### Tristen Kurutz
+Responsible for wiring the ultrasonic sensor to the Arduino, and the program logic that calculates the distance from the sensor to an object.
